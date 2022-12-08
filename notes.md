@@ -1,5 +1,8 @@
 ## Implementation
 
+### 3 - Add module for Customer service
+* dependencies: spring-boot-starter-web
+
 ### 2 - Provide dependency management in parent pom
 * dependencyManagement -> dependencies:
 ```xml
