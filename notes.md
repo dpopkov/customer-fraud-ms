@@ -1,5 +1,9 @@
 ## Implementation
 
+### 4 - Add Customer model, controller and service
+* CustomerEntity, CustomerRegistrationRequest
+* CustomerController, CustomerService
+
 ### 3 - Add module for Customer service
 * dependencies: spring-boot-starter-web
 
